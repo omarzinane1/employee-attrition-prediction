@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1_score
+SVM Baseline,0.8605442176870748,0.75,0.19148936170212766,0.3050847457627119
